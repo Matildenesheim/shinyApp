@@ -15,7 +15,7 @@ To see the site for TBI patients type password: <i>patient</i>
 <div align="center"><img src="/www/images/login.png" width="400px"/></div>
 
 **Note** <br>
-The framework for TIBA is solely based on theoretical inferences, meaning the actual usability and UX for our end-users remains unknown. It is solely a conceptual framework and only developed for an exam project as a initial suggestion for a potential design. 
+The framework for TIBA is solely based on theoretical inferences from the field of HCI and TBI, meaning the actual usability and UX for any end-users remains unknown and will continue to be. It is solely a conceptual framework and only developed for an exam project as a initial suggestion for a potential design. 
 
 ### Contacts 
 For further information feel free to connect with one of the authors Matilde Nesheim on [matildenesheim@hotmail.com](mailto:matildenesheim@hotmail.com?subject=[GitHub]%20TIBA) or on LinkedIn:
