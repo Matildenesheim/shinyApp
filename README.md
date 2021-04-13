@@ -8,12 +8,11 @@ The site has not been updated since spring 2020 and do produce minor errors in s
 
 🧠 See the tiba app [here.](https://matildenesheim.shinyapps.io/TIBA/)
 
-<div align="center"><img src="/www/images/login.png" width="400px"/></div>
-
 ## 🔑 Getting access
 To see the site for caregivers type password: <i>caregiver</i><br>
 To see the site for TBI patients type password: <i>patient</i>
 
+<div align="center"><img src="/www/images/login.png" width="400px"/></div>
 
 **Note** <br>
 The framework for TIBA is solely based on theoretical inferences, meaning the actual usability and UX for our end-users remains unknown. It is solely a conceptual framework and only developed for an exam project as a initial suggestion for a potential design. 
