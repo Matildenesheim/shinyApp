@@ -7,9 +7,10 @@ The site has not been updated since spring 2020 and do produce minor errors in s
 
 See the app by following this link:  https://matildenesheim.shinyapps.io/TIBA/ 
 
-# Getting access
-To see the site for caregivers type password: caregiver
+### Getting access
+To see the site for caregivers type password: caregiver<br>
 To see the site for TBI patients type password: patient
+
 
 **Note**
 Disclaimer: The framework for TIBA is solely based on theoretical inferences, meaning the actual usability and UX for our end-users remains unknown. It is solely a conceptual framework and only developed for an exam project as a initial suggestion for a potential design. 
