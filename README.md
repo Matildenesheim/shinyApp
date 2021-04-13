@@ -5,11 +5,10 @@ The framework, named Traumatic Injury of Brain Assistance (TIBA), aims to provid
 
 The site has not been updated since spring 2020 and do produce minor errors in some domains.  
 
-See the tiba app [here](https://matildenesheim.shinyapps.io/TIBA/)
+🧠 See the tiba app [here](https://matildenesheim.shinyapps.io/TIBA/)
 
-![tibaapp](image.png)
 
-### Getting access
+🔑### Getting access
 To see the site for caregivers type password: caregiver<br>
 To see the site for TBI patients type password: patient
 
@@ -17,4 +16,13 @@ To see the site for TBI patients type password: patient
 **Note** <br>
 The framework for TIBA is solely based on theoretical inferences, meaning the actual usability and UX for our end-users remains unknown. It is solely a conceptual framework and only developed for an exam project as a initial suggestion for a potential design. 
 
-# Contacts 
+### Contacts 
+For further information feel free to connect with one of the authors [matildenesheim@hotmail.com](mailto:matildenesheim@hotmail.com?subject=[GitHub]%20TIBA) or on the following platform:
+
+[<img align="left" alt="matildenesheim | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+</details>
+
+[linkedin]: https://www.linkedin.com/in/matildenesheim
