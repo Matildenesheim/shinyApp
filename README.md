@@ -8,7 +8,7 @@ The site has not been updated since spring 2020 and do produce minor errors in s
 
 🧠 See the tiba app [here.](https://matildenesheim.shinyapps.io/TIBA/)
 
-<div align="center"><img src="/www/images/login.png" width="450px"/></div>
+<div align="center"><img src="/www/images/login.png" width="400px"/></div>
 
 ## 🔑 Getting access
 To see the site for caregivers type password: <i>caregiver</i><br>
