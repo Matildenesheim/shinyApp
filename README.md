@@ -9,8 +9,8 @@ The site has not been updated since spring 2020 and do produce minor errors in s
 
 
 ## 🔑 Getting access
-To see the site for caregivers type password: caregiver<br>
-To see the site for TBI patients type password: patient
+To see the site for caregivers type password: <i>caregiver</i><br>
+To see the site for TBI patients type password: <i>patient</i>
 
 
 **Note** <br>
