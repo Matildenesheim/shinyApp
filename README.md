@@ -8,7 +8,7 @@ The site has not been updated since spring 2020 and do produce minor errors in s
 🧠 See the tiba app [here](https://matildenesheim.shinyapps.io/TIBA/)
 
 
-# 🔑 Getting access
+## 🔑 Getting access
 To see the site for caregivers type password: caregiver<br>
 To see the site for TBI patients type password: patient
 
