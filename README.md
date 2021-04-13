@@ -12,7 +12,7 @@ To see the site for caregivers type password: caregiver<br>
 To see the site for TBI patients type password: patient
 
 
-**Note**
+**Note** <br>
 Disclaimer: The framework for TIBA is solely based on theoretical inferences, meaning the actual usability and UX for our end-users remains unknown. It is solely a conceptual framework and only developed for an exam project as a initial suggestion for a potential design. 
 
 # Contacts 
